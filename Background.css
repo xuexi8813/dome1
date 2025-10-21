@@ -1,0 +1,12 @@
+body{
+        background-image:url(images/image_download_1712160177461.jpg );
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+footer{
+        position: fixed;
+        bottom: 1%;
+        width: 100%;
+    }
